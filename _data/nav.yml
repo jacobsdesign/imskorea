@@ -1,0 +1,32 @@
+- title: Home
+  link: '/'
+  
+- title: About
+  dropdown:
+    - title: 소개
+      link: /about/
+    - title: 연혁
+      link: /portfolio/
+    - title: 활동현황
+      link: /portfolio/
+    - title: 회원기관
+      link: /portfolio/
+
+- title: Standard
+  link: '/contact/'
+  
+- title: Event
+  link: '/blog/'
+  
+- title: Categories
+  link: '/categories/'
+
+- title: Archive
+  dropdown:
+    - title: Horizon
+      link: /testimonials/
+    - title: 행사자료
+      link: /portfolio/
+    - title: 
+      link: /portfolio/
+
