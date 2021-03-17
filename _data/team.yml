@@ -1,0 +1,27 @@
+- name: Daniel Dutton
+  designation: Founder / CEO
+  image: /assets/images/author-image.jpg
+  twitter: '#'
+  facebook: '#'
+  linkedin: '#'
+
+- name: Mary Clay
+  designation: Creative Director
+  image: /assets/images/a-l-l-e-f-v-i-n-i-c-i-u-s-173820-unsplash.jpg
+  twitter: '#'
+  facebook: '#'
+  linkedin: '#'
+
+- name: Shawn Pauley
+  designation: Designer / Developer
+  image: /assets/images/warren-wong-242286-unsplash.jpg
+  twitter: '#'
+  facebook: '#'
+  linkedin: '#'
+
+- name: Jeanne Wolf
+  designation: Marketing Head
+  image: /assets/images/christian-ferrer-594620-unsplash.jpg
+  twitter: '#'
+  facebook: '#'
+  linkedin: '#'
