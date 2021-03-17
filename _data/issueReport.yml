@@ -1,0 +1,24 @@
+# KERIS에서 발간한 이슈리포트 목록
+# 표지그림이 없는 경우 img_path 항목은 생략해주세요 :)
+#
+# - title: ""
+#   pdf_path: ""
+#   img_path: ""
+#   year: ""
+
+- title: "학습 분석 데이터 수집 체계 표준 동향 : IMS Caliper와 xAPI 현황 및 비교"
+  pdf_path: "http://lib.keris.or.kr/search/media/img/CAT000000013098?metsno=000000003247&fileid=M000000003247_FILE000001"
+  img_path: "http://lib.keris.or.kr/dl_image/IMG/01/000000003246/INTROIMAGE/000000003246_01.JPG"
+  year: "2018"
+
+- title: "표준화 이슈리포트: 가상·혼합현실 기술의 교육적 활용 가능성 및 전망"
+  pdf_path: "http://lib.keris.or.kr/search/media/img/CAT000000011869?metsno=000000002202&fileid=M000000002202_FILE000001"
+  year: "2016"
+
+- title: "표준화 이슈리포트 : 학습 분석 기술 활용 가능성 및 전망"
+  pdf_path: "http://lib.keris.or.kr/search/media/img/CAT000000009901?metsno=000000000614&fileid=M000000000614_FILE000001"
+  year: "2013"
+
+- title: "미디어 생태계에서 교육 분야에 최적화된 메타데이터 표준 연구"
+  pdf_path: "http://lib.keris.or.kr/search/media/img/CAT000000009900?metsno=000000000613&fileid=M000000000613_FILE000001"
+  year: "2013"
