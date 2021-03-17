@@ -29,7 +29,7 @@ description: Find all about avocado jekyll theme posts here.
     {% for item in postsBySubtitle %}
     <li class="" style="margin-bottom:5px">
       {% for post in item.items reversed limit:1 %}
-      <a href="{{ post.url }}">{{item.name}}</a>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{item.name}}</a>
       {% endfor %}
     </li>
     {% endfor %}
