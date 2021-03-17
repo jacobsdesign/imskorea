@@ -1,0 +1,44 @@
+---
+layout: category
+title: 표준문서
+stdlist: 최신 표준 목록
+category: standard
+---
+
+<h2 class="text-center">{{ page.stdlist }}</h2><br />
+<table class="table table-hover">
+  <thead>
+    <tr>
+      <th class="text-center">표준명</th>
+      <th class="text-center">제·개정일</th>
+    </tr>
+  </thead>
+  {% for post in site.categories[page.category] limit:10 %}
+  <tr>
+    <td>
+      <a href="{{ post.url | absolute_url }}">
+        {{ post.title }} </a>
+    </td>
+    <td class="col-md-2 center">
+      {{ post.date | date:'%Y. %m' }}
+    </td>
+  </tr>
+  {% endfor %}
+</table>
+</div>
+</br />
+</br />
+<br />
+<aside class="col-md-4">
+  <ul class="caption">
+    {% assign postsBySubtitle =
+    site.categories.standard | group_by:"subtitle" %}
+    {% for item in postsBySubtitle %}
+    <li class="" style="margin-bottom:5px">
+      {% for post in item.items reversed limit:1 %}
+      <a href="{{ post.url }}">{{item.name}}</a>
+      {% endfor %}
+    </li>
+    {% endfor %}
+  </ul>
+</aside>
