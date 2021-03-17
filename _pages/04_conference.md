@@ -2,6 +2,7 @@
 layout: page
 title: Event
 permalink: /event/
+desctiption: IMS-KOREA Events
 ---
 ![Image]({{"/assets/images/about/02.jpg"| relative_url}})
 <h2 class="text-center">2018 이러닝 컨퍼런스 학습 분석 워크숍</h2>
