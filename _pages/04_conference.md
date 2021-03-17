@@ -1,9 +1,9 @@
 ---
 layout: event
-
+title: Event
 permalink: /event/
 ---
-
+![Image]({{"/assets/images/about/02.jpg"| relative_url}})
 <h2 class="text-center">2018 이러닝 컨퍼런스 학습 분석 워크숍</h2>
 <hr/>
 <h3 class="text-center"> 프로그램 </h3>
