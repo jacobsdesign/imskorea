@@ -1,0 +1,48 @@
+# Horizon report list
+# 최신파일을 맨 위에 작성하면 됩니다 :)
+# example
+# - title: '제목'
+#   img_path: '이미지 주소'
+#   pdf_path: 'pdf 파일 주소'
+#   year: '해당년도'
+#
+
+- title: 'Innovating Pedagogy 2017'
+  img_path: 'http://blog.edtechie.net/wp-content/uploads/2017/12/IET_InnovatingPedagogy_2017_pages_WEB-724x1024.jpg'
+  pdf_path: 'https://iet.open.ac.uk/file/innovating-pedagogy-2017-kr.pdf'
+  year: '2017'
+
+- title: '2017 Library Edition'
+  img_path: 'https://cdn.nmc.org/www/20170316105719/nmc_itunesu.HRARL2017.jpg'
+  pdf_path: 'https://cdn.nmc.org/media/2017-nmc-horizon-report-arl-KR.pdf'
+  year: '2017'
+
+- title: '2017 Higher Education Edition'
+  img_path: 'https://cdn.nmc.org/www/20170202165706/nmc_itunesu.HRHiEd17final.jpg'
+  pdf_path: 'https://cdn.nmc.org/media/2017-nmc-horizon-report-he-KR.pdf'
+  year: '2017'
+
+- title: '2016 K-12 Edition'
+  img_path: 'https://cdn.nmc.org/www/20160907141050/nmc_itunesu.HRK1216-1.jpg'
+  pdf_path: 'http://cdn.nmc.org/media/2016-nmc-cosn-horizon-report-k12-KR.pdf'
+  year: '2016'
+
+- title: '2016 Higher Education Edition'
+  img_path: 'https://cdn.nmc.org/www/20160127000936/nmc_itunesu.HRHiEd161.jpg'
+  pdf_path: 'http://cdn.nmc.org/media/2016-nmc-horizon-report-HE-KP.pdf'
+  year: '2016'
+
+- title: '2015 Library Edition'
+  img_path: 'https://cdn.nmc.org/www/20150811101515/nmc_itunesu.HRARL2015.jpg'
+  pdf_path: 'http://cdn.nmc.org/media/2015-nmc-horizon-report-library-KR.pdf'
+  year: '2015'
+
+- title: '2015 K-12 Edition'
+  img_path: 'https://cdn.nmc.org/www/20150623125805/nmc_itunesu.HRK122015.jpg'
+  pdf_path: 'http://cdn.nmc.org/media/2015-nmc-horizon-report-k12-KR.pdf'
+  year: '2015'
+
+- title: '2015 Higher Education Edition'
+  img_path: 'https://cdn.nmc.org/www/20150208213141/nmc_itunesu.HR2015.jpg'
+  pdf_path: 'http://cdn.nmc.org/media/2015-nmc-horizon-report-HE-KR.pdf'
+  year: '2015'
