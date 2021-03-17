@@ -1,0 +1,549 @@
+# 아카이브
+# 발표자료 목록
+#
+# example
+# - title:  '제목'
+#   pdf_path: 'pdf파일주소'
+#   year:   '해당년도'
+#   author: '발표자'
+
+- title:    '고등교육에서의 학습분석 사례 및 그 의미와 전망'
+  pdf_path: '/assets/learning-analytics-2018/LASI2_Hongseob_Lee_Kotech.pdf'
+  year:     '2018'
+  author:   '이홍섭 부사장(코테크시스템)'
+
+- title:    '대학 교육에서의 AI 적용 사례'
+  pdf_path: '/assets/learning-analytics-2018/LASI2_Insik_Yoo_Ubion_Learning_Analytics_in_High_School_Edcuation.pdf'
+  year:     '2018'
+  author:   '유인식 이사(유비온)'
+
+- title:    '머신러닝 기반의 학습분석 기술 적용 사례'
+  pdf_path: '/assets/learning-analytics-2018/LASI2_Jonghyun_Chae_IBRICKS.pdf'
+  year:     '2018'
+  author:   '최종현 대표(아이브릭스)'
+
+- title:    'AI powered 분석 엔진을 활용한 교육서비스 개발 프로세스와 핵심 고려 사항'
+  pdf_path: '/assets/learning-analytics-2018/LASI2_Minwoo_Kim_Kidapptive_Asia.pdf'
+  year:     '2018'
+  author:   '김민우 대표(키드앱티브 아시아)'
+
+- title:    '인공지능기반 학습분석을 활용한 학습코칭시스템 적용사례'
+  pdf_path: "/assets/learning-analytics-2018/LASI2_Choi_Woongj​in Book Club's-AI Study Coaching Service.pdf"
+  year:     '2018'
+  author:   '최삼락 실장(웅진씽크빅)'
+
+- title:    '학습 환경에서 발생하는 데이터를 학습 기록 저장소로 전송하는 기술 소개'
+  pdf_path: '/assets/learning-analytics-2018/LASI_Kirsty_Kitto_Kitto-final.pdf'
+  year:     '2018'
+  author:   'Kirsty Kitto 교수(시드니 공과대)'
+
+- title:    '학습 활동 데이터를 수집·교환하기 위한 공통 어휘 정의 및 전송 API 기술 소개'
+  pdf_path: '/assets/learning-analytics-2018/LASI_Markus_Gylling_mgy-seoul-sep2018.pdf'
+  year:     '2018'
+  author:   'Markus Gylling (본부장/IMS Global)'
+
+- title: 'IMS Digital Credentials Summit 디브리핑'
+  pdf_path: '/assets/slides/2018/04_IMS_Summit_on_Digital_Credentials_debriefing.pdf'
+  year: '2018'
+  author: '이효정 연구원(KERIS)'
+
+- title: 'LAK(Learning Analytics & Knowledge) Workshops and Conference 2018 디브리핑'
+  pdf_path: '/assets/slides/2018/03_LAK2018_debriefing.pdf'
+  year: '2018'
+  author: '유재욱 책임(KERIS)'
+
+- title: '마이크로 러닝: 분석과 전망'
+  pdf_path: '/assets/slides/2018/02_micro_learning_for_effective_training.pdf'
+  year: '2018'
+  author: '정훈 이사(에듀니티)'
+
+- title: '4차산업혁명시대의 이러닝과 에듀테크'
+  pdf_path: '/assets/slides/2018/01_4th_Industrial_Revolution_elearing_and_edutech.pdf'
+  year: '2018'
+  author: '이광세 이사(에듀테크 산업협회)'
+
+- title:    'Human Factors in Education using Virtual and Augmented Reality'
+  pdf_path: '/assets/lasi-korea/Human-Factor-Guideline_KERIS.pdf'
+  year:     '2017'
+  author:   '이효정 연구원 (한국교육학술정보원)'
+
+- title:    'Multimodal Learning Analytics'
+  pdf_path: '/assets/lasi-korea/MLA_Korea_Xavier_Ochoa.pdf'
+  year:     '2017'
+  author:   'Prof. Xavier Ochoa (Escuela Superior Politécnica del Litoral (ESPOL))'
+
+- title:    'Artificial Intelligence for Learning Analysis'
+  pdf_path: '/assets/lasi-korea/LASI-Korea-Jaeho-Lee-20170831.pdf'
+  year:     '2017'
+  author:   '이재호 교수 (서울시립대학교)'
+
+- title:  "Possibility of Learning Assistance Robot: Understanding Learner's Status"
+  pdf_path: '/assets/lasi-korea/eLKorea2017yt_Yasuhisa_Tamura.pdf'
+  year:     '2017'
+  author:   'Prof. Yasuhisa Tamura (Sophia University)'
+
+- title:  '정리 기조강연: 학습 분석 생태계 구축 방향'
+  pdf_path: '/assets/lasi-korea/17.00pm.Rob_.Abel_.pdf'
+  year:     '2016'
+  author:   'Dr. Rob Abel (IMS Global)'
+
+- title:  'WISEflow(Nordic) 사례: 학습 분석 및 지능형 학습 평가 서비스의 통합'
+  pdf_path: '/assets/lasi-korea/04.LASI_UNIwiseLAPA.pdf'
+  year:     '2016'
+  author:   'CEO Rasmus Blok (UNIwise Aps) &amp; 박정호 대표 (Leo) (UNIwise Korea / DUCOgen Ltd.) &amp; 이은지 (이화여자대학교, LAPA Lab)'
+
+- title:  '신체에서 발생한 로그 데이터 분석: 학습분석과 정신생리학의 만남'
+  pdf_path: '/assets/lasi-korea/03.Jihyun.Yu-LASI_Jihyunyu.pdf'
+  year:     '2016'
+  author:   '유지현 (이화여자대학교, LAPA Lab)'
+
+- title:    '학습 플랫폼 무들을 통해 대학 교실의 블랙박스 보기'
+  pdf_path: '/assets/lasi-korea/02.LASI_2016_Yeonjeong-Park_PTfinal.pdf'
+  year:     '2016'
+  author:   '박연정 교수 (호남대학교, LAPA Lab)'
+
+- title:    'A-D-D-I-E 모델, 학습 분석과 학습 설계를 위한 재발견'
+  pdf_path: '/assets/lasi-korea/01.Il-Hyun.Jo-LASI_Aisa_2016_Jo.pdf'
+  year:     '2016'
+  author:   '조일현 교수 (이화여자대학교, LAPA Lab)'
+
+- title:  '학습 분석: 파일럿 프로그램'
+  pdf_path: '/assets/lasi-korea/05.Paul-Kerschen-Learning-Analytics-Pilot.pdf'
+  year:     '2016'
+  author:   'Dr. Paul Kerschen (UC Berkeley)'
+
+- title:    '분산 학습 환경을 위한 데이터 분석 인프라 구축'
+  pdf_path: '/assets/lasi-korea/04.Lance_.Sloan-lsloan_lasi-korea_LA-Infrastructure.pdf'
+  year:     '2016'
+  author:   'Mr. Lance Sloan (Univ. of Michigan)'
+
+- title:    '콘텐츠 활용 데이터 분석에 대한 VitalSource의 접근'
+  pdf_path: '/assets/lasi-korea/03.William.Chesser-VitalSource-Caliper-Simulation-2-Chesser.pdf'
+  year:     '2016'
+  author:   'Mr. William Chesser(VitalSource)'
+
+- title:  'Boot camp: Data API 사용 – IMS Caliper'
+  pdf_path: '/assets/lasi-korea/01.Stephen.Vickers-IMS_Caliper.pdf'
+  year:     '2016'
+  author:   'Dr. Stephen Vickers'
+
+- title:  'Boot camp: Data API 사용 – xAPI'
+  pdf_path: 'assets/lasi-korea/02.Kirsty.Kitto-2016-Sep-LASI-Asia-PPT.pdf'
+  year:     '2016'
+  author:   'Dr. Kirsty Kitto'
+
+- title:  '기조강연 III: 차세대 디지털 학습 환경을 위한 시스템 구축 방안'
+  pdf_path: '/assets/lasi-korea/11.00am-Charles.Severance-2016-09-Tsugi-LASI-Korea-02.pdf'
+  year:     '2016'
+  author:   'prof. Charles Severance (University of Michigan)'
+
+- title:  '기조강연 II: 21세기 핵심 역량을 위한 학습 분석의 기대'
+  pdf_path: '/assets/lasi-korea/10.00am-Simon.Suhm_.pdf'
+  year:     '2016'
+  author:   'Prof. Simon Buckingham Shum (University of Technology Sydney)'
+
+- title:  '프라이버시와 데이터 보호: 우려와 효과'
+  pdf_path: '/assets/lasi-korea/5.30pm.Tore_.Hoel-Hoel_DataProtection_framework_Seoul_2016-09-19.pdf'
+  year:     '2016'
+  author:   'Mr. Tore Hoel (Oslo Akershus University College of applied sciences)'
+
+- title:    '학습 분석을 위한 참조 모델 및 학습 분석 프로세스 구성 방안 소개'
+  pdf_path: '/assets/lasi-korea/5.00pm.Jaeho_.Lee-Reference-Model-LASI-ASIA.pdf'
+  year:     '2016'
+  author:   '이재호 교수 (서울시립대)'
+
+- title:  '미래의 비전: 학습 분석을 위한 지향점'
+  pdf_path: '/assets/lasi-korea/3.20pm.Rebecca.Ferguson-onthehorizonforlearninganalytics-160909125152.pdf'
+  year:     '2016'
+  author:   'Dr. Rebecca Ferguson and the LACE team'
+
+- title:  '학습 분석 솔루션의 확장: 프라이버시 보호는 주목할 만한가?'
+  pdf_path: '/assets/lasi-korea/3.00pm.Tore_.Hoel-Hoel_Privacy_Seoul_2016-09-19.pdf'
+  year:     '2016'
+  author:   'Tore Hoel (Oslo and Akershus University College of Applied Sciences)'
+
+- title:  '기조강연 I: 학습 분석 기술의 현황 – 학교, 대학, 기업의 이해관게자 커뮤니티를 구축한 3년간의 경험'
+  pdf_path: 'assets/lasi-korea/1.30pm-Dai.Griffiths_Seoul_LACE_v1-1.pdf'
+  year:     '2016'
+  author:   'Prof. Dai Griffiths (University of Bolton)'
+
+- title:    'IMS Global의 EDUPUB Best Practice - Question &amp; Test Interoperability, Caliper and Learning Tools Interoperability'
+  pdf_path: '/assets/slides/1.(Rob_Abel)IMS_EDUPUB_Korea_091815.pdf'
+  year:     '2015'
+  author:   'Rob Abel(CEO, IMS Global)'
+
+- title:    'EPUB3 EDUPUB 프로파일 외 전자출판 표준 소개'
+  pdf_path: '/assets/slides/2.day2-edupub-mgylling-seoul2015.pdf'
+  year:     '2015'
+  author:   'Markus Gylling(CTO, IDPF)'
+
+- title:    '교육과정과 디지털 자원을 연결한 링크드 데이터 서비스 참조모델'
+  pdf_path: '/assets/slides/4.(정현숙)링크드데이터_hsch.pdf'
+  year:     '2015'
+  author:   '정현숙 교수(조선대)'
+
+- title:    '오픈소스 SW를 활용한 학습 분석 서비스 참조모델'
+  pdf_path: '/assets/slides/3.(이재호)전자출판-교육기술융합페어_2015.pdf'
+  year:     '2015'
+  author:   '이재호 교수(서울 시립대'
+
+- title:  '패널토론: 전자출판과 교육 기술의 융합 트랜드를 바라보는 다양한 기대와 도전 - 세 번째 이야기'
+  pdf_path: '/assets/slides/(Day_1)패널토론.pdf'
+  year:     '2015'
+  author:   'Markus Gylling (IDPF), Rob Abel (IMS Global), 최성기 실장 (비상), 성대훈 상무 (다우인큐브)'
+
+- title:    '융합형 디지털 교과서, EDUPUB - 시장에 등장하기까지의 노력과 앞으로의 과제'
+  pdf_path: '/assets/slides/(기조강연2_Markus)theme-edupub-mgylling-seoul2015.pdf'
+  year:     '2015'
+  author:   'Mr. Markus Gylling(CTO, IDPF)'
+
+- title:    '교육혁신을 위한 생태계와 구조 - 미래 전망과 예상되는 도전'
+  pdf_path: '/assets/slides/(기조강연1_Rob_Abel)Prospect_and_expectation_for_learning_analytics_091715.pdf'
+  year:     '2015'
+  author:   'Dr. Rob Abel(CEO, IMS Global)'
+
+- title:    'EDUPUB 적합성 시험 고려사항 및 Summit 결과 요약'
+  pdf_path: '/assets/slides/5_EDUPUB_Summit.pdf'
+  year:     '2015'
+  author:   '조용상 책임(KERIS)'
+
+- title:    'Open Annotation in EPUB 개발 현황 소개'
+  pdf_path: '/assets/slides/4_OpenAnnotation_for_epub_20150330_.pdf'
+  year:     '2015'
+  author:   '최두립 팀장(인터파크)'
+
+- title:    'EDUPUB 프로파일 개발 현황 소개'
+  pdf_path: '/assets/slides/3_EDUPUB-Profile_IMS-CaliperEDUPUB-Summit.pdf'
+  year:     '2015'
+  author:   '인용인 과장(피어슨)'
+
+- title:    "국제표준화과제 - 학습 분석 참조모델 및 ‘PoC (Proof of Concept) for IMS Caliper’ 소개"
+  pdf_path: '/assets/slides/2_20150330_seminar.pdf'
+  year:     '2015'
+  author:   '이재호 교수(서울시립대)'
+
+- title:    'IMS Caliper 개념 및 현재까지 개발 현황 소개'
+  pdf_path: '/assets/slides/IMS_Caliper_intercode.pdf'
+  year:     '2015'
+  author:   '정호원 부장(인터코드)'
+
+- title:  '패널토론: 2014년도 EDUPUB Workshop을 통해 본 시사점과 한국의 디지털 교과서를 위한 제언'
+  pdf_path: '/assets/slides/508eb9f70159af4b481af39a0713aa9a.pdf'
+  year:     '2014'
+  author:   'Bill McCoy, Rob Abel, 전자출판 표준화 포럼 전문가'
+
+- title:    'EDUPUB 프로젝트 추진 현황 소개'
+  pdf_path: '/assets/slides/fd33fc0a365b28015fb434c813870b34.pdf'
+  year:     '2014'
+  author:   'Bill McCoy(사무총장, IDPF)'
+
+- title:    'EDUPUB 추진 배경 및 개요 소개'
+  pdf_path: '/assets/slides/d93b728ffd33582a513ac6ac042117f2.pdf'
+  year:     '2014'
+  author:   'Bill McCoy(사무총장, IDPF)'
+
+- title:    '성공적인 학습분석을 위한 트리거 - 표준화 현황 및 쟁점 소개'
+  pdf_path: '/assets/slides/05.Learning_Analytics_Standardization_Activities_and_Issues.pdf'
+  year:     '2014'
+  author:   '이재호 교수(서울 시립대)'
+
+- title:    '교육과정과 콘텐츠를 연결한 링크드 데이터 소개(ASN Framework)'
+  pdf_path: '/assets/slides/1e9529b84afa32e8fc6140da99ef97b2.pdf'
+  year:     '2014'
+  author:   'Colin Smythe(CTO, IMS Global)'
+
+- title:    '교육과정과 콘텐츠를 연결한 링크드 데이터 소개(Linked Data)'
+  pdf_path: 'assets/slides/04-2.linked_data_profile.pdf'
+  year:     '2014'
+  author:   '정현숙 교수(조선대)'
+
+- title:    '전자출판과 교육 기술의 대표적 융합 프로젝트 EDUPUB 현황 및 이슈'
+  pdf_path: '/assets/slides/03.EDUPUB-IDPFBill_McCoy.pdf'
+  year:     '2014'
+  author:   'Bill McCoy(사무총장, IDPF)'
+
+- title:  '패널토론: 전자출판과 학습 기술의 융합 트렌드를 바라보는 다양한 기대와 도전'
+  pdf_path: '/assets/slides/02.Day_1_Panel_discussion.pdf'
+  year:     '2014'
+  author:   'Rob Abel (CEO, IMS Global), IMS Korea(이광세 이사, 최성기 실장), ODPF(임순범 교수, 성대훈
+  본부장)'
+
+- title:    '학습분석 기술의 활용 가능성 및 전망'
+  pdf_path: '/assets/slides/01.Keynote-Prospects_for_analytics-IMSRob_Abel.pdf'
+  year:     '2014'
+  author:   'Dr. Rob Abel(CEO, IMS Global)'
+
+- title:    '한국의 디지털교과서 플랫폼 사례 및 발전 방향'
+  pdf_path: '/assets/slides/2013_05_pt.pdf'
+  year:     '2013'
+  author:   '동수환 팀장(KERIS)'
+
+- title:    '일본의 디지털교과서에 대한 요구사항 수집과 현재 기술 간 갭 분석 소개'
+  pdf_path: '/assets/slides/04_CF-Korea-yt_Yasuhisa-Tamura.pdf'
+  year:     '2013'
+  author:   'Yasuhisa Tamura 교수(일본 소피아대)'
+
+- title:  '패널토론: 전자출판과 학습 기술의 융합 트렌드를 바라보는 다양한 기대와 도전'
+  pdf_path: '/assets/slides/2013_02_pt.pdf'
+  year:     '2013'
+  author:   'Bill McCoy (사무총장, IDPF), Rob Abel (CEO, IMS), Yasuhisa Tamura(교수, 소피아대)'
+
+- title:    '학습분석 기술의 발전 현황과 전망'
+  pdf_path: '/assets/slides/01_BigAssessmt.pdf'
+  year:     '2013'
+  author:   '김지희 소장(KT 미래기술연구소)'
+
+- title:    '후각미디어를 이용한 ICT 감성증강 기술'
+  pdf_path: '/assets/slides/AR_06.Kim_JD.pdf'
+  year:     '2012'
+  author:   '김정도 교수(호서대)'
+
+- title:    '멀티스크린환경에서 클라우드를 이용한 비디오마케팅 전략과 사례'
+  pdf_path: '/assets/slides/web&amp;multi_06.Yoon_JG.pdf'
+  year:     '2012'
+  author:   '윤정근 지사장(Brightcove)'
+
+- title:    '시장에서 바라본 전자출판시장의 허와 실'
+  pdf_path: '/assets/slides/smartpublishing_06.Chul-Beom_Kim.pdf'
+  year:     '2012'
+  author:   '김철범 대표(아이이펍)'
+
+- title:    '전자책과 이러닝 콘텐츠의 융합 활용 사례-전자출판 관점에서'
+  pdf_path: '/assets/slides/smartlearning_06.Rick_Johnson.pdf'
+  year:     '2012'
+  author:   'Rick Johnson(CTO, Vital Source)'
+
+- title:    '방송과 AR 기술의 접목'
+  pdf_path: '/assets/slides/AR_05.Choi_BS.pdf'
+  year:     '2012'
+  author:   '최범석 선임(ETRI)'
+
+- title:    '스마트러닝과 디지털교과서 시대에 대한 SK텔레콤의 전망과 기대 역할'
+  pdf_path: '/assets/slides/web&amp;multi_05.No_CI.pdf'
+  year:     '2012'
+  author:   '노창일 차장(SKT)'
+
+- title:    '전자책 DRM 상호운용성 표준화 전략'
+  pdf_path: '/assets/slides/smartpublishing_05.Hogab_Kang.pdf'
+  year:     '2012'
+  author:   '강호갑 소장(DRM Inside)'
+
+- title:    '스마트교육 플랫폼의 표준 적용 방안'
+  pdf_path: '/assets/slides/smartlearning_05.SUHWAN_DONG.pdf'
+  year:     '2012'
+  author:   '동수환 선임(KERIS)'
+
+- title:    'MPEG 기반의 AR 기술 표준화 동향, 산업계 이슈'
+  pdf_path: '/assets/slides/AR_04.Yoon_KR.pdf'
+  year:     '2012'
+  author:   '윤경로 교수(건국대)'
+
+- title:    '클라우드 서비스와 멀티스크린 서비스 전략 - 윈도우8 사례'
+  pdf_path: '/assets/slides/web&amp;multi_03-04.Jeon_SG.pdf'
+  year:     '2012'
+  author:   '전세광 부장(MS)'
+
+- title:    '마트 미디어 환경에서 전자출판 서비스의 발전을 위한 기술 현황'
+  pdf_path: '/assets/slides/smartpublishing_04.Soon-Bum_Lim.pdf'
+  year:     '2012'
+  author:   '임순범 교수(숙명여대)'
+
+- title:    '사이버대학에서의 스마트러닝 구현사례(SCU Smart WAVE)'
+  pdf_path: '/assets/slides/smartlearning_04.Jung_Hojin.pdf'
+  year:     '2012'
+  author:   '정호진(SCU)'
+
+- title:    '현실세계 캐릭터 표현을 위한 증강현실 참조모듈'
+  pdf_path: '/assets/slides/AR_03.Kwan-Hee_Yoo.pdf'
+  year:     '2012'
+  author:   '류관희 교수(충북대)'
+
+- title:    '통합 운영체제로서 윈도우 8과 멀티스크린 서비스 연계 방안'
+  pdf_path: '/assets/slides/web&amp;multi_03-04.Jeon_SG.pdf'
+  year:     '2012'
+  author:   '전세광 부장(MS)'
+
+- title:    '미국 전자출판 산업에서 EPUB3에 대한 기대와 이슈'
+  pdf_path: '/assets/slides/smartlearning_06.Rick_Johnson.pdf'
+  year:     '2012'
+  author:   'Rick Johnson(CTO, Vital Source)'
+
+- title:    'IMS 표준 활용을 통한 대학 이러닝 서비스 환경의 변화'
+  pdf_path: '/assets/slides/smartlearning_03.Choi_SungKi.pdf'
+  year:     '2012'
+  author:   '최성기 차장(SK C&amp;C)'
+
+- title:    '센서 기반 혼합현실'
+  pdf_path: '/assets/slides/AR_02.L_MY.pdf'
+  year:     '2012'
+  author:   '이명원 교수(수원대)'
+
+- title:    '디지털 사이니지 시범 사업을 통해 본 멀티스크린 서비스'
+  pdf_path: '/assets/slides/web&amp;multi_02.Lee_JH.pdf'
+  year:     '2012'
+  author:   '이재혁 팀장(NIA)'
+
+- title:    '동시출간과 전자책 콘텐츠 보호기술 - IDPF의 DRM 표준화 동향'
+  pdf_path: '/assets/slides/smartpublishing_02.Markus_Gylling-a11y.pdf'
+  year:     '2012'
+  author:   'Markus Gylling(CTO, IDPF)'
+
+- title:    '콘텐츠, SW, 플랫폼의 새로운 연결, Learning Tools Interoperability에 대한 이해'
+  pdf_path: '/assets/slides/smartlearning_02.Charse_Severence.pdf'
+  year:     '2012'
+  author:   'harles Severence 교수(미시건대)'
+
+- title:    '증강현실(ARC) 표준 참조모델: The Starting Point for Proper Standardization'
+  pdf_path: '/assets/slides/AR_01.Kim_JH.pdf'
+  year:     '2012'
+  author:   '김정현 교수(고려대)'
+
+- title:    '전자책 표준 EPUB3의 현재와 미래'
+  pdf_path: '/assets/slides/smartpublishing_01.Markus_Gylling-epub.pdf'
+  year:     '2012'
+  author:   'Bill McCoy(Executive Director, IDPF)'
+
+- title:    '다이나믹한 디지털 콘텐츠 표준, Common Cartridge 에 대한 이해'
+  pdf_path: '/assets/slides/smartlearning_01.Colin_Smythe.pdf'
+  year:     '2012'
+  author:   'Jeff Kahn(IMS)'
+
+- title:    '스마트미디어 확산으로 응용산업이 직면한 도전과 기회 - 전자출판 분야'
+  pdf_path: '/assets/slides/Smart_Media_03.Bill_MCCOY.pdf'
+  year:     '2012'
+  author:   'Dr. Bill McCoy(Executive Director, International Digital Publishing Forum)'
+
+- title:    '스마트미디어 확산으로 응용산업이 직면한 도전과 기회 - 교육 분야'
+  pdf_path: '/assets/slides/Smart_Media_02.Rob_Abel.pdf'
+  year:     '2012'
+  author:   'Rob Abel(CEO, IMS Global Learning Consortium)'
+
+- title:    '스마트미디어 표준화 종합지원전략'
+  pdf_path: '/assets/slides/Smart_Media_01.오유천(프레지형태).zip'
+  year:     '2012'
+  author:   '오유천 연구관(지식경제부 기술표준원)'
+
+- title:    '스마트미디어 시대가 여는 새로운 콘텐츠 비즈니스 세상'
+  pdf_path: '/assets/slides/D6-성대훈(교보문고)-스마트미디어_시대가_여는_새로운_콘텐츠_비지니스_세상.pdf'
+  year:     '2011'
+  author:   '성대훈(교보문고)'
+
+- title:    '스마트 캠퍼스를 위한 스마트러닝'
+  pdf_path: '/assets/slides/C6-최성기(SKCC)-클라우드_기반_융복합_콘텐츠_서비스_환경.pdf'
+  year:     '2011'
+  author:   '최성기(SK C&amp;C)'
+
+- title:    'Cloud Object Storage Service'
+  pdf_path: '/assets/slides/B6-황진경(KT)-Colud_Object_Storage_Service.pdf'
+  year:     '2011'
+  author:   '황진경(KT)'
+
+- title:    'Virtual World Interaction and Interoperability'
+  pdf_path: '/assets/slides/A6-한재준(삼성전자)-Virtual_World_Interaction.pdf'
+  year:     '2011'
+  author:   '한재준(삼성전자)'
+
+- title:    '스마트 디바이스와 e-Reading 서비스 - Readers Hub를 중심으로'
+  pdf_path: '/assets/slides/D5-장영석(삼성전자)-스마트미디어_디바이스와_e-Readning_서비스.pdf'
+  year:     '2011'
+  author:   '장영석(삼성전자)'
+
+- title:    '네이버 클라우드 스토리지 N드라이브'
+  pdf_path: '/assets/slides/B5-전성원(NHN)-N드라이브.pdf'
+  year:     '2011'
+  author:   '전성원(NHN)'
+
+- title:    '정보격차 해소를 위한 스마트 퍼블리싱 활용 방안'
+  pdf_path: '/assets/slides/D4-육근해(점자도서관)-정보격차_해소를_위한_스마트퍼블리싱.pdf'
+  year:     '2011'
+  author:   '육근해(한국점자도서관)'
+
+- title:    '스마트TV+이러닝 결합으로 본 스마트러닝'
+  pdf_path: '/assets/slides/C4-차남주(디유넷)-스마트TV와_이러닝의_결합으로_본_스마트러닝.pdf'
+  year:     '2011'
+  author:   '차남주(디유넷)'
+
+- title:    'Microsoft, N-Screen과 클라우드 전략'
+  pdf_path: '/assets/slides/B4-서진호(한국MS)-N스크린과_클라우드.pdf'
+  year:     '2011'
+  author:   '서진호(한국MS)'
+
+- title:    '클라우드 및 융합 콘텐츠 지원을 위한 개방형 표준 필요성 및 전망'
+  pdf_path: '/assets/slides/D3-남동선(한컴)-클라우드_및_융합콘텐츠_지원을_위한_개방형_표준_필요성_및_전망.pdf'
+  year:     '2011'
+  author:   '남동선(한글과컴퓨터)'
+
+- title:    '특수교육 지원을 위한 스마트러닝 활용 방안'
+  pdf_path: '/assets/slides/C3-박해룡(교과부)-특수_교육_지원을_위한_스마트러닝_활용방안_Final(공개용).pdf'
+  year:     '2011'
+  author:   '박해룡(교육과학기술부)'
+
+- title:    'Cloud Economics'
+  pdf_path: '/assets/slides/B3-양희동(이화여대)-Cloud_Economics.pdf'
+  year:     '2011'
+  author:   '양희동(이화여대)'
+
+- title:    'HTML5 &amp; Hybrid App Development'
+  pdf_path: '/assets/slides/A3-김민태(KTH)-Hybrid-Development.pdf'
+  year:     '2011'
+  author:   '김민태(KTH)'
+
+- title:    '스마트미디어와 저작권 보호기술 동향'
+  pdf_path: '/assets/slides/D2-최재표(문화체육관광부)-스마트미디어와_콘텐츠저작권_보호기술_동향_[호환_모드].pdf'
+  year:     '2011'
+  author:   '최재표(문화체육관광부)'
+
+- title:    '3D G-러닝 : 체험형 온라인 영어학습 사례(Smarty Ants)'
+  pdf_path: '/assets/slides/C2-이웅주(대교)-스마티앤츠.pdf'
+  year:     '2011'
+  author:   '이웅주(대교)'
+
+- title:    '모바일 클라우드 기반 N-Screen 서비스'
+  pdf_path: '/assets/slides/B2-허의남(경희대)-스마트홈을_위한_클라우드_기반의_N-Screen.pdf'
+  year:     '2011'
+  author:   '허의남(경희대)'
+
+- title:    'Future of Operating System, WebOS'
+  pdf_path: '/assets/slides/A2-권우일(인프라웨어)-WebOS.pdf'
+  year:     '2011'
+  author:   '권우일(인프라웨어)'
+
+- title:    'Smart Device 등장과 eBook의 발전방향'
+  pdf_path: '/assets/slides/D1-조용보(SKT)-Smart_Device등장과_eBook의_발전방향(수정본).pdf'
+  year:     '2011'
+  author:   '조용보(SK텔레콤)'
+
+- title:    '스마트 교실학습 상상하기'
+  pdf_path: '/assets/slides/C1-김현철(고려대)-스마트교실.pdf'
+  year:     '2011'
+  author:   '김현철(고려대)'
+
+- title:    'Impacts of Standards on Cloud Computing'
+  pdf_path: '/assets/slides/B1-이승윤(ETRI)-Impact_of_Standards_on_Cloud.pdf'
+  year:     '2011'
+  author:   '이승윤(ETRI)'
+
+- title:    'New Trends of Next Generation Web'
+  pdf_path: '/assets/slides/A1-이강찬(ETRI)-New_Trends_of_Next_Generation_Web(R1).pdf'
+  year:     '2011'
+  author:   '이강찬(ETRI)'
+
+- title:    'Life Web 시대와 모바일 서비스 대응전략'
+  pdf_path: '/assets/slides/K3-김명호(Microsoft)-뉴_노멀을_찾아서.pdf'
+  year:     '2011'
+  author:   '조산구 상무(LG U+)'
+
+- title:    '스마트미디어 시대를 위한 뉴 노멀(New Normal)을 찾아서'
+  pdf_path: '/assets/slides/K3-김명호(Microsoft)-뉴_노멀을_찾아서.pdf'
+  year:     '2011'
+  author:   '김명호 최고기술임원(한국Microsoft)'
+
+- title:    'IT 서비스의 필수 인프라, 클라우드컴퓨팅'
+  pdf_path: '/assets/slides/K2-이영로(클라우드NSC)-클라우드컴퓨팅.pdf'
+  year:     '2011'
+  author:   '이영로 클라우드컴퓨팅 국가표준코디네이터'
+
+- title:    '스마트미디어가 보여주는 IT 서비스의 미래'
+  pdf_path: '/assets/slides/K1-조용상(코디네이터)-스마트미디어가_보여주는_IT_서비스의_미래(재수정).pdf'
+  year:     '2011'
+  author:   '조용상 스마트미디어 국가표준코디네이터'
