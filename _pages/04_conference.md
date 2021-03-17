@@ -1,7 +1,7 @@
 ---
 layout: event
 
-permalink: /conference/
+permalink: /event/
 ---
 
 <h2 class="text-center">2018 이러닝 컨퍼런스 학습 분석 워크숍</h2>
