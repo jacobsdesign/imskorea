@@ -18,9 +18,6 @@
 - title: Event
   link: '/event/'
   
-- title: Categories
-  link: '/categories/'
-
 - title: Archive
   dropdown:
     - title: Horizon
